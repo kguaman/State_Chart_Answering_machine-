@@ -18,7 +18,8 @@
 </ul>  
 
 <h2>Project status</h2>
- status:Complete 
+ status:Completed
+ <br>
  February 2021
 
 <h2>Credits</h2>
